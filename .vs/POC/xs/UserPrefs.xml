@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{E63865A7-CF4D-4F1F-8F9B-DA7BB4930A7B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="POC/App.xaml">
+    <Files>
+      <File FileName="POC/MainPage.xaml.cs" Line="18" Column="15" />
+      <File FileName="POC/MainPage.xaml" />
+      <File FileName="POC.Android/MainActivity.cs" Line="31" Column="53" />
+      <File FileName="POC.iOS/Main.cs" Line="17" Column="59" />
+      <File FileName="POC/App.xaml.cs" Line="16" Column="40" />
+      <File FileName="POC.Android/MyJSInterface.cs" Line="10" Column="31" />
+      <File FileName="POC.Android/EmptyClass.cs" Line="13" Column="29" />
+      <File FileName="POC.Android/Resources/Resource.designer.cs" Line="6732" Column="25" />
+      <File FileName="POC/App.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="POC" expanded="True">
+            <Node name="POC" expanded="True">
+              <Node name="App.xaml" expanded="True" selected="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="POC.Android" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+            <Node name="POC.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.POC.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.POC.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.79981AD1-DC9D-4E2C-ACCE-8E695FF1E9BE" />
+</Properties>

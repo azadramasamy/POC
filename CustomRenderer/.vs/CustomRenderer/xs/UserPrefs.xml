@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.ItemProperties.CustomRenderer FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomRenderer/HybridWebView.cs">
+    <Files>
+      <File FileName="CustomRenderer/HybridWebView.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CustomRenderer" expanded="True">
+            <Node name="CustomRenderer" expanded="True">
+              <Node name="HybridWebView.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>deviceInfo</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

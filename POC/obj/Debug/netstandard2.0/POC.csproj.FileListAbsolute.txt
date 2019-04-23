@@ -1,0 +1,13 @@
+/Users/azad/AzadSpace/Xamarin/POC/POC/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/azad/AzadSpace/Xamarin/POC/POC/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/azad/AzadSpace/Xamarin/POC/POC/obj/Debug/netstandard2.0/POC.csproj.CoreCompileInputs.cache
+/Users/azad/AzadSpace/Xamarin/POC/POC/obj/Debug/netstandard2.0/POC.AssemblyInfoInputs.cache
+/Users/azad/AzadSpace/Xamarin/POC/POC/obj/Debug/netstandard2.0/POC.AssemblyInfo.cs
+/Users/azad/AzadSpace/Xamarin/POC/POC/obj/Debug/netstandard2.0/POC.dll
+/Users/azad/AzadSpace/Xamarin/POC/POC/obj/Debug/netstandard2.0/POC.pdb
+/Users/azad/AzadSpace/Xamarin/POC/POC/bin/Debug/netstandard2.0/POC.deps.json
+/Users/azad/AzadSpace/Xamarin/POC/POC/bin/Debug/netstandard2.0/POC.dll
+/Users/azad/AzadSpace/Xamarin/POC/POC/bin/Debug/netstandard2.0/POC.pdb
+/Users/azad/AzadSpace/Xamarin/POC/POC/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/azad/AzadSpace/Xamarin/POC/POC/bin/Debug/netstandard2.0/MainPage.xaml
+/Users/azad/AzadSpace/Xamarin/POC/POC/bin/Debug/netstandard2.0/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
